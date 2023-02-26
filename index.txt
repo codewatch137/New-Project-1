@@ -3,3 +3,5 @@ middle line added
 new message added for the check
 
 thirdline added
+
+lastline
